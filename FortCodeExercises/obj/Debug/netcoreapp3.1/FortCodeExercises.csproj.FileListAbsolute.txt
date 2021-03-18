@@ -1,0 +1,9 @@
+C:\Users\C230046\eval-fast-bk-2-kd8e\FortCodeExercises\bin\Debug\netcoreapp3.1\FortCodeExercises.deps.json
+C:\Users\C230046\eval-fast-bk-2-kd8e\FortCodeExercises\bin\Debug\netcoreapp3.1\FortCodeExercises.dll
+C:\Users\C230046\eval-fast-bk-2-kd8e\FortCodeExercises\bin\Debug\netcoreapp3.1\FortCodeExercises.pdb
+C:\Users\C230046\eval-fast-bk-2-kd8e\FortCodeExercises\obj\Debug\netcoreapp3.1\FortCodeExercises.csprojAssemblyReference.cache
+C:\Users\C230046\eval-fast-bk-2-kd8e\FortCodeExercises\obj\Debug\netcoreapp3.1\FortCodeExercises.AssemblyInfoInputs.cache
+C:\Users\C230046\eval-fast-bk-2-kd8e\FortCodeExercises\obj\Debug\netcoreapp3.1\FortCodeExercises.AssemblyInfo.cs
+C:\Users\C230046\eval-fast-bk-2-kd8e\FortCodeExercises\obj\Debug\netcoreapp3.1\FortCodeExercises.csproj.CoreCompileInputs.cache
+C:\Users\C230046\eval-fast-bk-2-kd8e\FortCodeExercises\obj\Debug\netcoreapp3.1\FortCodeExercises.dll
+C:\Users\C230046\eval-fast-bk-2-kd8e\FortCodeExercises\obj\Debug\netcoreapp3.1\FortCodeExercises.pdb
